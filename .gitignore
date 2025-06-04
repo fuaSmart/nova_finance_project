@@ -1,0 +1,11 @@
+# .gitignore content
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+venv/
+.env
+data/raw_analyst_ratings.csv
+*.ipynb_checkpoints
